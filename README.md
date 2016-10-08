@@ -4,11 +4,12 @@
 
 ## DIRECTORY CONTENT (FILE LIST):
 
+---------------------------------------
 Description if file content | file name 
--------------------------------------------------
+---------------------------------------
 Source code of the program | test_triangles.cc
-Test unit file | a.out
-Test unit file | a1.out
+~~Test unit file~~ | ~~a.out~~
+~~Test unit file~~ | ~~a1.out~~
 Description of taskoutlook image | zadanie_zelengorov
 The task (original text, image)	| ZADACHA.jpg
 Source w. BG labels and messages | triangles_BG.cc
