@@ -58,16 +58,9 @@ int main()
             if (triangleset[i][6]<=r_average)
                 j++;
         }
-        cout << "Imame " << j << " triugulnici s radius, po-maluk ot srednia. ";
+        cout << "Imame " << j << " triugulnici s radius, nenadminavasht srednia. ";
 
-        j=0;
-        for (i=1; i<=N; i++)
-        {
-        	cout << triangleset[i][6];
-            if (r_average < triangleset[i][6])
-                j++;
-        }
-        cout << "Imame " << j << " triugulnici s radius, PO-GOLIAM ot srednia.  ";
+        cout << "Imame " << N-j << " triugulnici s radius, PO-GOLIAM ot srednia.  ";
 
         return 0;                       // exit code 0 means OK
 
