@@ -1,0 +1,9 @@
+-------------------------
+README
+What is going on the directory you've just visited:
+-------------------------
+ATTN.: 1.txt - text file for test purposes
+       1.bcp - hard link to the file above. 
+Both files are with set/changed SUID GUID and sticky bit.
+1.txt is with changed attribute (see 'lsattr 1.txt' and setattr respectively for details)
+
