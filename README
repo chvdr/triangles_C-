@@ -1,8 +1,8 @@
 
-README
+# README
 
 
-DIRECTORY CONTENT (FILE LIST):
+## DIRECTORY CONTENT (FILE LIST):
 ----------------------------------------------------------
 Description if file content		file name 
 ----------------------------------------------------------
@@ -15,7 +15,7 @@ Source w. BG labels and messages	triangles_BG.cc
 ----------------------------------------------------------
 
 
-ORIGINAL TEXT OF THE TASK (BULGARIAN):
+## ORIGINAL TEXT OF THE TASK (BULGARIAN):
 Триъгълници се задват с дължините на трите им страни. 
 Броят на триъгълниците N се въвежда от клавиатурата и трябва да отговаря на условието N<25. 
 Въведете данни за страните на N на брой съществуващи триъгълника. Данните да се съхранят в едномерни масиви. 
