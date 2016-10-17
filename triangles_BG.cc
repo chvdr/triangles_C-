@@ -62,6 +62,10 @@ int main()
 
         cout << "Imame " << N-j << " triugulnici s radius, PO-GOLIAM ot srednia.  ";
 
+	char a; 
+	cout << "Gotowo!. Natisni <Enter> DWA PYTI za izlizane: "
+	cin >> a;
+
         return 0;                       // exit code 0 means OK
 
 } // End of main

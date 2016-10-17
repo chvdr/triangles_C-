@@ -67,6 +67,11 @@ int main()
 	};
 	cout << "There are " << j << " triangles w. radius, LARGER than average value. ";
 
+	// this is only a break before the program exits:
+        char a;
+        cout << "Program finished. Press <Enter> key TWICE to exit program: "
+        cin >> a;
+
 	return 0;			// exit code 0 means OK 
 
 } // End of main
