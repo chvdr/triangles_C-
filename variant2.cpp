@@ -6,15 +6,15 @@ int main()
 	const int N=4;
 	bool flag = false;
 
-	float aStrani[25];
-	float bStrani[25];
-	float cStrani[25];
+	float aStrani[N];
+	float bStrani[N];
+	float cStrani[N];
 
-	float aMediani[25];
-	float bMediani[25];
-	float cMediani[25];
+	float aMediani[N];
+	float bMediani[N];
+	float cMediani[N];
 
-	float radiusi[25];
+	float radiusi[N];
 
 	for (int i = 0; i < N; i++)
 	{
